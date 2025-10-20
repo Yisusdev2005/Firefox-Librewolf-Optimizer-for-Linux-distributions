@@ -11,6 +11,6 @@ Un script para optimizar Firefox o Librewolf desde la terminal de Linux de una m
   
 </p>
 
-<img align="center" src="https://github.com/Yisusdev2005/Firefox-Librewolf-Optimizer-for-Linux-distributions/blob/main/Preview.png" width="100%"/>
+<img align="center" src="https://github.com/Yisusdev2005/Firefox-Librewolf-Optimizer-for-Linux-distributions/blob/main/Script_Preview.png" width="100%"/>
 
 > Espero que os haya funcionado el script, si tienen problemas pueden reestablecer las configuraciones con el backup generado automáticamente al ejecutar el script :)
